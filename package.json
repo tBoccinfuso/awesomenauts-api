@@ -1,0 +1,21 @@
+{
+  "name": "nautsapi",
+  "version": "1.0.0",
+  "description": "Awesomenauts API",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Thomas Boccinfuso",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3"  
+  }
+}
