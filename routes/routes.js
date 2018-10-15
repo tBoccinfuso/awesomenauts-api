@@ -17,14 +17,14 @@ router.get('/nauts', nautsController.getAllNauts)
 router.get('/battlefields', battlefieldsController.getAllBattlefields)
 
 // Get battlefield by name
-router.get('/battlefields/:battlefield', battlefieldsController.getBattlefieldByName)
-router.get('/battlefields/:battlefield/name', battlefieldsController.getBattlefieldName)
-router.get('/battlefields/:battlefield/description', battlefieldsController.getBattlefieldDescription)
-router.get('/battlefields/:battlefield/creep', battlefieldsController.getBattlefieldCreep)
-router.get('/battlefields/:battlefield/hazard', battlefieldsController.getBattlefieldHazard)
-router.get('/battlefields/:battlefield/hazard_text', battlefieldsController.getBattlefieldHazardText)
-router.get('/battlefields/:battlefield/splash', battlefieldsController.getBattlefieldSplash)
-router.get('/battlefields/:battlefield/map', battlefieldsController.getBattlefieldMap)
+router.get('/battlefield/:battlefield', battlefieldsController.getBattlefieldByName)
+router.get('/battlefield/:battlefield/name', battlefieldsController.getBattlefieldName)
+router.get('/battlefield/:battlefield/description', battlefieldsController.getBattlefieldDescription)
+router.get('/battlefield/:battlefield/creep', battlefieldsController.getBattlefieldCreep)
+router.get('/battlefield/:battlefield/hazard', battlefieldsController.getBattlefieldHazard)
+router.get('/battlefield/:battlefield/hazard_text', battlefieldsController.getBattlefieldHazardText)
+router.get('/battlefield/:battlefield/splash', battlefieldsController.getBattlefieldSplash)
+router.get('/battlefield/:battlefield/map', battlefieldsController.getBattlefieldMap)
 
 // Get naut by name
 router.get('/naut/:naut', nautsController.getNautByName)
