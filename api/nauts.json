@@ -63,12 +63,12 @@
     "description": "Melee assassin that can go invisible. Uses his tongue to pull enemies towards him.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Leon_Chameleon_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Cloaking skin",
         "description": "Become invisible to your foes, leaving a dummy to confuse them.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Leon_Chameleon_stealth.png"
       },
-      "2": {
+      "two": {
         "name": "Tongue snatch",
         "description": "Tongue-grab your enemies and pull them towards you.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Leon_Chameleon_tongue.png"
@@ -91,12 +91,12 @@
     "description": "Heals himself and snares groups of enemies with a long ranged hammer.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Scoop_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Binding of justice",
         "description": "Wrap yourself in healing bindings healing yourself and damaging nearby enemies.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Scoop_heal.png"
       },
-      "2": {
+      "two": {
         "name": "Frozen hammer",
         "description": "Throw out a hammer of ice that snares multiple enemies. The longer it flies, the more damage it deals and the longer the snare lasts.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Scoop_hammer.png"
@@ -119,12 +119,12 @@
     "description": "Applies poison through biting and spitting at enemies. Creates Weedling mini turrets.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Gnaw_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Acid spit",
         "description": "Spit out a sticky spray of acid goo that damages enemies over time. Spit will also fertilize and heal weedlings.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Gnaw_spit.png"
       },
-      "2": {
+      "two": {
         "name": "Grow weedling",
         "description": "Bite enemies to gather Growth parts, then use those to grow a weedling.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Gnaw_turret0.png"
@@ -147,12 +147,12 @@
     "description": "Uses a laser snipe to deal heavy damage. Throws time rifts that slow enemies.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Raelynn_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Snipe",
         "description": "Press the button to take aim, then Press the button to shoot, firing a powerful and long-range shot that pierces enemies. Shoot after the beep.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Raelynn_snipe.png"
       },
-      "2": {
+      "two": {
         "name": "Timerift",
         "description": "Throw a deployable vertical rift that slows time. Hold the button to throw further.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Raelynn_timerift.png"
@@ -175,12 +175,12 @@
     "description": "Melee character that can activte Rage to fly and deal area damage. Can shoot an Evil Eye that deal heavy single target damage.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Ayla_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Rage",
         "description": "Press the button to toggle rage mode on/off, making Ayla float and deal heavy area damage.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Ayla_lifesteal_on.png"
       },
-      "2": {
+      "two": {
         "name": "Evil eye",
         "description": "Unleash your third eye. The evil eye is more effective the less health you have.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Ayla_bolas.png"
@@ -203,12 +203,12 @@
     "description": "Shoots rockets. Explodes for massive area damage to enemies and himself. Bites enemies to regain health.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Clunk_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Vacuum bite",
         "description": "Clunk bites nearby enemies, replenishing his own health.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Clunk_lifesteal.png"
       },
-      "2": {
+      "two": {
         "name": "Explode",
         "description": "Self-destruct, dealing damage to yourself and nearby enemies.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Clunk_detonate.png"
@@ -231,12 +231,12 @@
     "description": "Shoots orbs that heal allied Awesomenauts and damage enemies. Summons a healbot that delivers a healing burst. Summons drons that shoot at nearby enemies, which can also be fired one by one.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Voltar_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Suicide drones",
         "description": "Voltar automatically generates robodrones that deal damage to nearby enemies. Press the button to shoot one robodrone, dealing ranged area damage.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Voltar_drone.png"
       },
-      "2": {
+      "two": {
         "name": "Healbot",
         "description": "Summon a nanotech robodoctor that will heal you and your allies.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Voltar_healtotem.png"
@@ -259,12 +259,12 @@
     "description": "Shoots a long range detonatable ball lightning and can escape using a blazing lighning trail.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Coco_Nebulon_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Blaze",
         "description": "Temporarily, Coco's hoverboard leaves a trail of electricity that slows and damages enemies.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Coco_Nebulon_blaze.png"
       },
-      "2": {
+      "two": {
         "name": "Ball lightning",
         "description": "Shoot a ball lightning. Detonate it at any time with a second the button press.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Coco_Nebulon_detonator.png"
@@ -287,12 +287,12 @@
     "description": "Throws enemies behind him and deals heavy damage every third hit. Creates earthquakes that deal area damage over time.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Skølldir_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Earthquake",
         "description": "Buttstomp the ground to start an earthquake which damages enemies in front of you in a line.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Skølldir_earthquake.png"
       },
-      "2": {
+      "two": {
         "name": "Mighty throw",
         "description": "Hurl your enemies backwards with this mighty throw.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Skølldir_throw.png"
@@ -315,12 +315,12 @@
     "description": "Flyer that pelts area with damaging mines. Can reate a timebubble that slows enemies and speeds up allies.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Yuri_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Mine deploying",
         "description": "Pelt your enemies with mines that detonate upon contact.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Yuri_mine.png"
       },
-      "2": {
+      "two": {
         "name": "Time warp",
         "description": "Generate a time-warping field, slowing enemies around him.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Yuri_timebubble.png"
@@ -343,12 +343,12 @@
     "description": "Transforms into a heavily armed static siege mode. Lays snaring traps while mobile.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Derpl_Zork_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Grid trap / Nuke",
         "description": "Deploy traps that will ensnare enemies, locking them in place. Nuke in siege mode. Detonate it at any time with a second the button press.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Derpl_Zork_trap_rocket.png"
       },
-      "2": {
+      "two": {
         "name": "Siege mode",
         "description": "Transform into a static siege mode, enabling deadly weaponry. Siege mode also provides debuff immunity. Press the button to toggle siege mode on/off.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Derpl_Zork_turretmode.png"
@@ -371,12 +371,12 @@
     "description": "Flyer that can dive into enemies for heavy burst damage. Creates a smoke cloud to blind enemies.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Vinnie_&_Spike_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Spike Dive",
         "description": "Dive through enemies and shoot spikes in a circle at the end.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Vinnie_&_Spike_dash.png"
       },
-      "2": {
+      "two": {
         "name": "Smoke screen",
         "description": "Leave a cloud of smoke behind to blind your enemies and protect your allies, while you escape.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Vinnie_&_Spike_smoke.png"
@@ -399,12 +399,12 @@
     "description": "Shields allied Awesomenauts. Cocoons enemies, taking them out of the fight for a while.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Genji_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Monarch Blessing",
         "description": "Unleash a prayer to the space butterfly and receive a blessing for you and your nearby allies.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Genji_blessing.png"
       },
-      "2": {
+      "two": {
         "name": "Cocoon",
         "description": "Gurgle and spit out a ball of silk web that cocoons enemies and removes them from combat.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Genji_cocoon.png"
@@ -427,12 +427,12 @@
     "description": "Pulls himself towards enemies and can chain enemies to the ground with his anchor. Trades his melee attack for ranged ink shot whiles his anchor is out.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Admiral_Swiggins_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Anchor hook",
         "description": "Swiggins hurls Homboldt forward. If it hits an enemy Awesomenaut or a wall he will fly to the target.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Admiral_Swiggins_anchorhook.png"
       },
-      "2": {
+      "two": {
         "name": "Drop Anchor",
         "description": "Swiggins throws Homboldt out. If it hits an enemy Awesomenaut they will be chained to Homboldt.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Admiral_Swiggins_anchordrop.png"
@@ -455,12 +455,12 @@
     "description": "Shoots an arrow that can travel the entire battlefield. Uses Vengeance to enhance his arrows with slowing power.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Rocco_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Vengeance",
         "description": "Run at normal speed while shooting and add a slow effect to rapid arrows for a set amount of time. Hitting enemies with your rapid arrows increases the duration of vengeance.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Rocco_frostmode.png"
       },
-      "2": {
+      "two": {
         "name": "Precision shot",
         "description": "Fire an arrow that flies through terrain and deals damage to enemy Awesomenauts. Hold the button to straighten the shot and increase range.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Rocco_firebomb0.png"
@@ -483,12 +483,12 @@
     "description": "Throws knives and uses a 3-hit combo attac for quick damage and uses Vanish to quickly displace herself and disappear.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Ksenia_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Scissors throw",
         "description": "Throw a fast flying scissor that deals bonus damage to enemy Awesomenauts. Ksenia can carry up to 4 scissors. Scissors can be picked up if they hit terrain.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Ksenia_knives2.png"
       },
-      "2": {
+      "two": {
         "name": "Vanish",
         "description": "Roll into stealth for a short time and silence your opponents when you break stealth with an attack.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Ksenia_stealth.png"
@@ -511,12 +511,12 @@
     "description": "Can link up with allies or enemies and switch places with them. Can become impervious to damage for a short while.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Ix_the_Interloper_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Psionic Bond/Displace",
         "description": "Create a temporary bond between the Ix and an Awesomenaut that heals friendly targets and damages enemy targets. Swap places with the bonded Awesomenaut with a second the button press!",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Ix_the_Interloper_bond.png"
       },
-      "2": {
+      "two": {
         "name": "Refract",
         "description": "Disperse into energized crystals to become impervious to any damage for a short period of time. You can fly while refracted.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Ix_the_Interloper_refract.png"
@@ -539,12 +539,12 @@
     "description": "Switches between a shotgun plus an attack enhancing stimpacks and a machine gun plus a targetable airstrike.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Ted_McPain_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Airstrike",
         "description": "Call in an ion cannon airstrike for maximum damage. Only available while in machinegun mode.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Ted_McPain_airstrike.png"
       },
-      "2": {
+      "two": {
         "name": "Stimpack",
         "description": "Stimpacks make Ted go berserk, enhancing his attack speed. Only available while in shotgun mode.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Ted_McPain_stim.png"
@@ -567,12 +567,12 @@
     "description": "Gain charges with her melee attack. Spends charges on her dashing Pounce or her damagin Energy Pulse",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Penny_Fox_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Pounce",
         "description": "Consume up to 4 charges to pounce forward, knocking back enemies you come in contact with. Each charge increases range and damage.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Penny_Fox_assail.png"
       },
-      "2": {
+      "two": {
         "name": "Energy pulse",
         "description": "Consume up to 4 charges to shoot a piercing energy pulse that amplifies damage. Each charge increases the damage.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Penny_Fox_jolt.png"
@@ -595,12 +595,12 @@
     "description": "Can teleport across the map. Shields damage and returns it in the form of a damagin black hole.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Sentry_X-58_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Teleport beacon",
         "description": "Sentry deploys a beacon to which he can teleport with a second the button press at any time. Sentry deals a damage dealing pulse at arrival.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Sentry_X-58_beacon.png"
       },
-      "2": {
+      "two": {
         "name": "Black hole sun",
         "description": "Activate a damage collecting black hole that can be shot with a second the button press and placed with a third the button press, pulling enemies towards it and dealing the collected damage.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Sentry_X-58_blackhole.png"
@@ -623,12 +623,12 @@
     "description": "Shoots lightning and can summon a movement blocking totem. Shoots a sawblade that deals damage.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Skree_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Totem of power",
         "description": "Summon a robotic wall that blocks enemy movement. Your team can stand on the wall. Hold the button to throw further.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Skree_wall.png"
       },
-      "2": {
+      "two": {
         "name": "Saw blade",
         "description": "Shoot a spinning blade that stays in one position for a limited time. You can place it with a second the button press and pull it towards you with a third the button press.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Skree_spirit.png"
@@ -651,12 +651,12 @@
     "description": "Shoots an orb to which she can teleport and can breathe flames for heavy burst damage.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Nibbs_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Orb of Omicron",
         "description": "Send out an orb to which you can teleport with a second the button press.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Nibbs_blink.png"
       },
-      "2": {
+      "two": {
         "name": "Fire breath",
         "description": "Hold your position and unleash your fiery breath on your foes.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Nibbs_twirl.png"
@@ -679,12 +679,12 @@
     "description": "Summs robotic dinosaurs and uses Griping Gaze to hold enemies in place. His wrench can be used to heal allied droids and summons.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Professor_Yoolip_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Summon robo dinos",
         "description": "Create 3 robo dinos that will walk forward and attack enemies.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Professor_Yoolip_monster.png"
       },
-      "2": {
+      "two": {
         "name": "Gripping gaze",
         "description": "Throw out a third eye gaze that will stun you and the targeted enemy Awesomenaut for a while. The stun also breaks if the enemy gets out of range.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Professor_Yoolip_beam.png"
@@ -707,12 +707,12 @@
     "description": "Very mobile on his bike. Can step off, leaving his bike as a static turret. Can throw bombs that stick to enemies and deal area damage after a delay.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Chucho_Krokk_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Hyper bike/turret",
         "description": "Summon a fast bike with a railgun to drive into combat. Dismount with a second the button press and deploy your bike as a turret. When you are too far away you can detonate the bike by holding the button to allow it to be resummoned.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Chucho_Krokk_jumpbike.png"
       },
-      "2": {
+      "two": {
         "name": "Sticky bomb/Nitro Boost",
         "description": "Throw a sticky bomb to stick onto anything. Explodes in an area after being stuck for some time. Hold the button to throw further. This skill changes into a Nitro Boost when on your bike.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Chucho_Krokk_bolas.png"
@@ -735,12 +735,12 @@
     "description": "Uses a 3-hit combo melee attack that can charge forward, knocking enemies away. Can unleash a rocket barrage.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Jimmy_and_the_LUX5000_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "LUX Charge",
         "description": "Hold the button to charge forward and knock enemies back while dealing damage.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Jimmy_and_the_LUX5000_charge.png"
       },
-      "2": {
+      "two": {
         "name": "Missle Barrage",
         "description": "Enter a missile barrage mode and unleash long-ranged missiles onto your enemies.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Jimmy_and_the_LUX5000_barrage.png"
@@ -763,12 +763,12 @@
     "description": "Flyer that can shoot out horizontal bullets. Can also fire a time slowing orb.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Max_Focus_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Scene Illumination",
         "description": "Light up the scene with a steady stream of lights that deal damage.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Max_Focus_sceneillumination.png"
       },
-      "2": {
+      "two": {
         "name": "Slow-mo Shot",
         "description": "Launch an area that slowly flies forward and slows time.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Max_Focus_slowmoshot.png"
@@ -791,12 +791,12 @@
     "description": "Can lunge into battle to deal damage and shield his allies from incoming enemy attacks using his protective shield.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Deadlift_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Power Lunge",
         "description": "In true Bovinian fashion, lunge into enemies and cause an explosive burst of energy.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Deadlift_leap.png"
       },
-      "2": {
+      "two": {
         "name": "Protective Pose",
         "description": "Strike a pose to summon holo-tech's newest protective shield and soak up incoming damage for you and your allies.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Deadlift_shield.png"
@@ -819,12 +819,12 @@
     "description": "Dashes around quickly by using multiple stackable dashes. Can leave and explosive clone which explodes in an area.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Dizzy_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Multi Dash",
         "description": "Save up to 3 dashes to unleash unto your enemies.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Dizzy_dash.png"
       },
-      "2": {
+      "two": {
         "name": "Explosive Clone",
         "description": "Leave a water clone at your location that explodes and deals damage in an area.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Dizzy_blow.png"
@@ -847,12 +847,12 @@
     "description": "Hooks enemy players and can drag them for a short distance. Deals heavy damage with his flamethrower and tailwhip.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Smiles_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Tail whip",
         "description": "Smack your foes with your reinforced tail, knocking them back.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Smiles_tail.png"
       },
-      "2": {
+      "two": {
         "name": "Trapper's hook",
         "description": "Throw out a hook that will connect with enemy Awesomenauts and lets you drag them around the map for a short duration.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Smiles_chain.png"
@@ -875,12 +875,12 @@
     "description": "Fires a huge long ranged rocket and can place a laser trap to deal damage in an area.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Commander_Rocket_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Rocket Launch",
         "description": "Fire a huge rocket that deals damage and knocks enemies back.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Commander_Rocket_rocket.png"
       },
-      "2": {
+      "two": {
         "name": "Laser Trap",
         "description": "Place a rotating laser trap that deals damage to enemies in its path.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Commander_Rocket_trap.png"
@@ -903,12 +903,12 @@
     "description": "Can teleport to a marked target and deal heavy damage around her.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_QiTara_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Chakram shift",
         "description": "Throw out a chakram that can stick unto enemies and shift to it on second press. This leaves another chakram that can be shifted back to.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_QiTara_warp.png"
       },
-      "2": {
+      "two": {
         "name": "Seven star strike",
         "description": "Temporarily gain the ability to slash rapidly around you.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_QiTara_flurry.png"
@@ -931,12 +931,12 @@
     "description": "Can float short durations and pull himself quickly around the map. Summons explosive shells that rotate around him.",
     "image_url": "https://www.awesomenauts.com/characters/image/Splash_Snork_Gunk_001.png",
     "abilities":{
-      "1": {
+      "one": {
         "name": "Sticky snail",
         "description": "Summon a holographic super snail to quickly pull yourself through the map and towards enemy Awesomenauts.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Snork_Gunk_hook.png"
       },
-      "2": {
+      "two": {
         "name": "Shell bombs",
         "description": "Summon rotating shells around you that explode on contact.",
         "icon": "https://www.awesomenauts.com/characters/image/Icon_Snork_Gunk_balls.png"
