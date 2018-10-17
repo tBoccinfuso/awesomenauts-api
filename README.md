@@ -50,62 +50,81 @@ ribbit ai_205 aiguillon ai_404 sorona
 1. https://awesomenauts-api.herokuapp.com/nauts 
     - Return 1 big json object with all nauts (also objects).
     
-2. https://awesomenauts-api.herokuapp.com/naut/:naut
-    - Where `:naut` is the key of the naut you want to search for. This will return a json object with all info related to the naut. Example: https://awesomenauts-api.herokuapp.com/naut/yoolip
+2. /naut/:naut
+    - Example: https://awesomenauts-api.herokuapp.com/naut/yoolip
+    - Where `:naut` is the key of the naut you want to search for. This will return a json object with all info related to the naut. 
     
-3. https://awesomenauts-api.herokuapp.com/naut/:naut/role
+3. /naut/:naut/role
+    - Example: https://awesomenauts-api.herokuapp.com/naut/deadlift/role
     - Get the Role of the Awesomenaut.
     
-3. https://awesomenauts-api.herokuapp.com/naut/:naut/difficulty
+3. /naut/:naut/difficulty
+    - Example: https://awesomenauts-api.herokuapp.com/naut/lonestar/difficulty
     - Get the Difficulty of the Awesomenaut.
     
-4. https://awesomenauts-api.herokuapp.com/naut/:naut/description
+4. /naut/:naut/description
+    - Example: https://awesomenauts-api.herokuapp.com/naut/froggyg/description
     - Get the Description of the Awesomenaut.  
     
-5. https://awesomenauts-api.herokuapp.com/naut/:naut/image
+5. /naut/:naut/image
+    - Example: https://awesomenauts-api.herokuapp.com/naut/dizzy/image
     - Get the Image of the Awesomenaut.
         
-6. https://awesomenauts-api.herokuapp.com/naut/:naut/name
+6. /naut/:naut/name
+    - Example: https://awesomenauts-api.herokuapp.com/naut/yoolip/name
     - Get the Name of the Awesomenaut. This will include their full name. Example: Professor Yoolip.
         
-7. https://awesomenauts-api.herokuapp.com/naut/:naut/abilities
+7. /naut/:naut/abilities
+    - Example: https://awesomenauts-api.herokuapp.com/naut/max/abilities
     - Returns an ojbect containing all abilities of the Awesomenaut.
         
-8. https://awesomenauts-api.herokuapp.com/naut/:naut/abilities/one
+8. /naut/:naut/abilities/one
+    - Example: https://awesomenauts-api.herokuapp.com/naut/max/abilities/one
     - Get the first ability of the Awesomenaut.
             
-9. https://awesomenauts-api.herokuapp.com/naut/:naut/abilities/two
+9. /naut/:naut/abilities/two
+    - Example: https://awesomenauts-api.herokuapp.com/naut/max/abilities/two
     - Get the second ability of the Awesomenaut.
             
 10. https://awesomenauts-api.herokuapp.com/naut/:naut/abilities/attack
     - Get the attack of the Awesomenaut.
             
-11. https://awesomenauts-api.herokuapp.com/naut/:naut/abilities/jump
+11. /naut/:naut/abilities/jump
+    - Example: https://awesomenauts-api.herokuapp.com/naut/max/abilities/jump
     - Get the jump ability of the Awesomenaut.
             
-12. https://awesomenauts-api.herokuapp.com/battlefields
+12. /battlefields
+    - Example: https://awesomenauts-api.herokuapp.com/battlefields
     - Get all battlefield objects.
             
-13. https://awesomenauts-api.herokuapp.com/battlefield/:battlefield
+13. /battlefield/:battlefield
+    - Example: https://awesomenauts-api.herokuapp.com/battlefield/:ribbit
     - Return the object of the passed battlefield.
                 
-14. https://awesomenauts-api.herokuapp.com/battlefield/:battlefield/name
+14. /battlefields/:battlefield/name
+    - Example: https://awesomenauts-api.herokuapp.com/battlefield/ai_205/name
     - Get the Name of the battlefield.
                     
-15. https://awesomenauts-api.herokuapp.com/battlefield/:battlefield/description
+15. /battlefields/:battlefield/description
+    - Example: https://awesomenauts-api.herokuapp.com/battlefield/ribbit/description
     - Get the Description of the battlefield.
                     
-16. https://awesomenauts-api.herokuapp.com/battlefield/:battlefield/creep
+16. /battlefields/:battlefield/creep
+    - Example: https://awesomenauts-api.herokuapp.com/battlefield/ai_404/creep
     - Get the Creep of the battlefield.    
                     
-17. https://awesomenauts-api.herokuapp.com/battlefield/:battlefield/hazard
+17. /battlefields/:battlefield/hazard
+    - Example: https://awesomenauts-api.herokuapp.com/battlefield/sorona/hazard
     - Get the Hazard of the battlefield.
                     
-18. https://awesomenauts-api.herokuapp.com/battlefield/:battlefield/hazard_text
+18. /battlefields/:battlefield/hazard_text
+    - Example: https://awesomenauts-api.herokuapp.com/battlefield/sorona/hazard_text
     - Get the Hazard description of the battlefield.
                     
-19. https://awesomenauts-api.herokuapp.com/battlefield/:battlefield/splash
+19. /battlefields/:battlefield/splash
+    - Example: https://awesomenauts-api.herokuapp.com/battlefield/ribbit/splash
     - Get the Splash art of the battlefield.
                     
-20. https://awesomenauts-api.herokuapp.com/battlefield/:battlefield/map
+20. /battlefields/:battlefield/map
+    - Example: https://awesomenauts-api.herokuapp.com/battlefield/ribbit/map
     - Get the Mini map of the battlefield.
