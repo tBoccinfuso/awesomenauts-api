@@ -1,6 +1,7 @@
 const express = require('express');
 const routes = require('./routes/routes');
 const path = require('path');
+const cors = require('cors');
 const bodyParser = require('body-parser')
 
 // import environmental variables from our variables.env file
@@ -15,6 +16,7 @@ app.use( bodyParser.json() );       // to support JSON-encoded bodies
 app.use(bodyParser.urlencoded({     // to support URL-encoded bodies
   extended: true
 })); 
+app.use(cors());
 
 // handle our own routes!
 app.use('/', routes);
