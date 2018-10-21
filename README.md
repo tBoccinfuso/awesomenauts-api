@@ -1,5 +1,5 @@
 # awesomenauts-api
-An API for all your Awesomenauts related data returned as json. Make your requests to: https://awesomenauts-api.herokuapp.com/
+An API for all your Awesomenauts related data returned as json. Make your requests to: https://awesomenauts-api.herokuapp.com/. Keep in mind the API will currently return a json object, and you may have to see what was returned and use `.keyName` on the variable to get the value you are looking for out of the object!
 
 ## Easy way of using
 Use the official [NPM Package](https://www.npmjs.com/package/awesomenauts-api-lib)
@@ -9,7 +9,7 @@ Use the official [NPM Package](https://www.npmjs.com/package/awesomenauts-api-li
 1. `:naut` => the key of an Awesomenaut. Often will be the naut's name will be the key unless they are multi word name.
 2. `:battlefield` => the key of a battlefield.
 
-### Nauts' Keys
+### Nauts' Parameters
 
 | Key | Key |
 |:---:|:---:|
@@ -31,7 +31,7 @@ Use the official [NPM Package](https://www.npmjs.com/package/awesomenauts-api-li
 | max | yoolip |
 | nibbs | yuri |
 
-### Battlefield Keys
+### Battlefield Parameters
 
 | Key |
 |:---:|
