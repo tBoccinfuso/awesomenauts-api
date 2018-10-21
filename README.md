@@ -1,7 +1,10 @@
 # awesomenauts-api
 An API for all your Awesomenauts related data returned as json. Make your requests to: https://awesomenauts-api.herokuapp.com/
 
-## What params can I pass?
+## Easy way of using
+Use the official [NPM Package](https://www.npmjs.com/package/awesomenauts-api-lib)
+
+## What params can I pass? (Manual way)
 
 1. `:naut` => the key of an Awesomenaut. Often will be the naut's name will be the key unless they are multi word name.
 2. `:battlefield` => the key of a battlefield.
